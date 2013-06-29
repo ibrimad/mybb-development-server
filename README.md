@@ -34,9 +34,9 @@ Box provided by developer.nrel.gov.
 
 Latest packages are from remi/epel.
 
-Profiling: XHProf + XHProf.io. Located at /xhprof/, automatically loaded.
+Profiling: XHProf + XHProf.io. Located at /xhprof/, automatically loaded. siege + strace available.
 
-Cache: APC. Stats at /apc.php
+Cache: APC (Stats at /apc.php), memcached. Both PHP extensions are installed.
 
 Firewall: iptables disabled. No need for it.
 
