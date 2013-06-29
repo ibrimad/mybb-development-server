@@ -26,9 +26,9 @@ OS: Centos 6.4 64bit
 
 Webserver: Apache 2
 
-Database Server: MySQL 5.5.32
+Database Server: MySQL 5.5.32/PostgreSQL 8.4.13
 
-PHP: 5.4.16
+PHP Version: 5.4.16
 
 Box provided by developer.nrel.gov.
 
