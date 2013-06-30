@@ -46,6 +46,12 @@ file { '/etc/my.cnf':
     tag    => 'setup',
 }
 
+file { '/etc/rc.local':
+    owner  => 'root', group => 'root', mode => '0644',
+    source => 'puppet:///modules/configs/rc.local',
+    tag    => 'setup',
+}
+
 service { 'iptables':
     ensure => 'stopped',
     enable => 'true',
