@@ -1,0 +1,8 @@
+.DS_Store?
+.DS_Store
+*.sw?
+*~
+ehthumbs.db
+Icon?
+Thumbs.db
+.vagrant
