@@ -16,7 +16,9 @@ Requirements
 
  * Linux workstation.
  * Or Windows. Kidding. I don't use Windows. [Get Linux](http://lifehacker.com/5778882/getting-started-with-linux-the-complete-guide) and achieve enlightenment.
- * [ViirtualBox](https://www.virtualbox.org/).
+ * [Ruby](http://www.ruby-lang.org/).
+ * [Git](http://git-scm.com/).
+ * [VirtualBox](https://www.virtualbox.org/).
  * [Vagrant](http://vagrantup.com/).
 
 Technical
@@ -29,8 +31,6 @@ Webserver: Apache 2
 Database Server: MySQL 5.5.32/PostgreSQL 8.4.13
 
 PHP Version: 5.4.16
-
-Box provided by developer.nrel.gov.
 
 Latest packages are from remi/epel.
 
@@ -59,7 +59,7 @@ Follow https://help.github.com/articles/generating-ssh-keys; xclip won't work he
 
     vagrant@mybb-dev-server$ /setup.sh # Fetch stable and feature.
     
-That's it! stable is located at `/var/www/html/stable/` and feature is located at `/var/www/html/feature/`
+That's it! Navigate to http://33.33.33.33/ or add a new entry to your hosts file (33.33.33.33   mybb-dev-server).
 
 Notice
 ------------
