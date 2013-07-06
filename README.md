@@ -61,6 +61,13 @@ Follow https://help.github.com/articles/generating-ssh-keys; xclip won't work he
     
 That's it! Navigate to http://33.33.33.33/ or add a new entry to your hosts file (33.33.33.33   mybb-dev-server).
 
+TODO
+------------
+
+- Set CHMOD correctly post-install
+- Launch postgresql
+- Document aliases/hidden features
+
 Notice
 ------------
 
