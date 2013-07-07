@@ -68,6 +68,7 @@ TODO
 - Launch postgresql
 - Document aliases/hidden features
 - Set date correctly
+- Make iptables stop correctly
 
 Notice
 ------------
