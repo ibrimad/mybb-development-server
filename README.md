@@ -67,6 +67,7 @@ TODO
 - Set CHMOD correctly post-install
 - Launch postgresql
 - Document aliases/hidden features
+- Set date correctly
 
 Notice
 ------------
