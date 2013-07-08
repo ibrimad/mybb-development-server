@@ -69,6 +69,7 @@ TODO
 - Document aliases/hidden features
 - Set date correctly
 - Make iptables stop correctly
+- Add MYBB_DEV_MODE environment variable
 
 Notice
 ------------
