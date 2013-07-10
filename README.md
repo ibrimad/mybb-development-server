@@ -67,9 +67,10 @@ TODO
 - Set CHMOD correctly post-install
 - Launch postgresql
 - Document aliases/hidden features
-- Set date correctly
+- Set date correctly(!!!)
 - Make iptables stop correctly
 - Add MYBB_DEV_MODE environment variable
+- Try and get this fixed: https://github.com/gajus/xhprof.io/issues/49
 
 Notice
 ------------
